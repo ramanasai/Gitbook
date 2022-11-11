@@ -24,4 +24,7 @@
 ## ML Learning
 
 * [ML Index](ml-learning/ml-index.md)
-* [Page 1](ml-learning/page-1.md)
+
+## Group 1
+
+* [JAVA](group-1/java.md)
