@@ -28,4 +28,4 @@
 
 ## JAVA
 
-* [JAVA](java/java.md)
+* [JAVA](group-1/java.md)

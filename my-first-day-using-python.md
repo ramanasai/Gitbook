@@ -35,4 +35,4 @@ if(a<b):
 
 In code i have used all the arithmetic operation which i know while exicuting the program.
 
-![06-04-2021 (Preview)](<.gitbook/assets/image (1).png>)
+![06-04-2021 (Preview)](<.gitbook/assets/image (1) (1).png>)
