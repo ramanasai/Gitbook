@@ -15,7 +15,7 @@ b=15
 
 I have declared a and b as a datatype.
 
-![06-04-2021 (Code)](.gitbook/assets/image.png)
+![06-04-2021 (Code)](<.gitbook/assets/image (2).png>)
 
 ### code:
 
