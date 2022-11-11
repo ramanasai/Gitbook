@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About Me](README.md)
+* [Companies List](companies-list.md)
 
 ## Python
 
@@ -25,6 +26,6 @@
 
 * [ML Index](ml-learning/ml-index.md)
 
-## Group 1
+## JAVA
 
-* [JAVA](group-1/java.md)
+* [JAVA](java/java.md)
