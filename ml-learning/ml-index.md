@@ -13,7 +13,7 @@ Python Version: 3.11.0
 
 * Visual Studio Code.
 
-### **Extensions**:
+#### **VSCode Extensions**:
 
 * Python
 * Python Extension Pack
