@@ -1,6 +1,6 @@
 # About Me
 
-My Name is P B Sai Ramana, i am pursuing BCA (Bachelor of Computer Applications). I make videos, posters, documents, apps, web pages. I like challenges, i like to learn more and more, i expand my knowledge, i am a student.
+MCA Graduate , BCA Graduate . I make videos, posters, documents, apps, web pages. I like challenges, i like to learn more and more, i expand my knowledge, i am a student.
 
 ![](.gitbook/assets/b.png)
 
